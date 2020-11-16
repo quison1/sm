@@ -1,0 +1,36 @@
+# site settings
+title: Smart
+subtitle: Minions
+email: info@smartminions.com.au
+description: Giving life to switches<br /> and turning them into minions of your fortress.
+baseurl: "/main" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 8 Cape Street
+city: Dickson
+state: ACT
+zip_code: 2602
+country: Australia
+phone: 1800 966 009
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://facebook.com/#
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/#
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
